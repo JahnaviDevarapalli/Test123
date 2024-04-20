@@ -20,4 +20,11 @@ int square(int num)
 {
 	//function added in main branch
 	return num*num;
+}
+
+char Square2(int num)
+{
+	//Duncton added in main branch
+	return num;
 } 
+
