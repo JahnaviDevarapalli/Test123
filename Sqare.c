@@ -16,3 +16,10 @@ float square(float num)
 {
     return num * num;
 }
+
+int square1(int num)
+{
+	//function added in branch1 
+	return num * num;
+}
+
