@@ -20,4 +20,9 @@ int square(int num)
 {
 	//function added in main branch
 	return num*num;
+}
+char square(int num)
+{
+	// new function added in main branch
+	return num;
 } 
