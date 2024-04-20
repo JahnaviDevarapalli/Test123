@@ -16,10 +16,8 @@ float square(float num)
 {
     return num * num;
 }
-
 int square(int num)
 {
 	//function added in main branch
 	return num*num;
 } 
-
